@@ -44,7 +44,7 @@ def main():
 
         # Code to be ran if the can't be divided by 100
         else:
-            print(f"{user_input_year} is a leap year!\n")
+            print(f"{user_input_year} is not a leap year!\n")
 
     # Code to be ran if the can't be divided by 4
     else:
